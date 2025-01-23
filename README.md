@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a8f27f19-1ee9-45d0-a8a9-952ea097ad6f
 # Object Detection App
 
 An object detection app built with **Flutter** and **BLoC** architecture that uses TensorFlow Lite models for real-time object detection. The app leverages the device's camera to identify objects in the viewfinder and displays their bounding boxes, categories, and confidence scores.
@@ -70,9 +72,15 @@ Here is the list of libraries and tools used in this project:
 ---
 
 ## Screenshots
-![IMG_8610.PNG](..%2FDownloads%2FIMG_8610.PNG)
-![IMG_8609.PNG](..%2FDownloads%2FIMG_8609.PNG)
-![IMG_8608.PNG](..%2FDownloads%2FIMG_8608.PNG)
+![IMG_8608](https://github.com/user-attachments/assets/02422cba-3cde-4db1-9c8b-82dfc05d46d8)
+![IMG_8609](https://github.com/user-attachments/assets/afde1704-7048-4fa9-9cc8-1638bb61b461)
+![IMG_8610](https://github.com/user-attachments/assets/16eb7ec9-58f6-4546-a93a-ddb7af3b1ed1)
+
+
 
 ## How it Works (Video Guide)
-[ScreenRecording_01-24-2025 00-04-00_1.MP4](..%2FDownloads%2FScreenRecording_01-24-2025%2000-04-00_1.MP4)
+
+
+https://github.com/user-attachments/assets/447e8ce6-a2dc-4b94-a25f-1232a02c6646
+
+
