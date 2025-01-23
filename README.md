@@ -24,8 +24,8 @@ An object detection app built with **Flutter** and **BLoC** architecture that us
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/khalils99/object-detector.git
+   cd object-detector
    ```
 
 2. Install dependencies:
